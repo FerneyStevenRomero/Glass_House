@@ -1,0 +1,24 @@
+h1{
+    margin: 0 0 0 1%;
+}
+.container-Palindromo{
+    margin: 5% 0 0 25%;
+    width: 40%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7); 
+    
+}
+.container-numero{
+    margin: 1% 0 1% 1%;
+
+}
+.entrada-numero{
+ 
+    border-radius: 5px;
+}
+.boton-calcular{
+    margin: 1% 0 1% 1%;
+    border-radius: 5px;
+}
+.container-base{
+    margin: 1% 0 1% 1%;
+}
